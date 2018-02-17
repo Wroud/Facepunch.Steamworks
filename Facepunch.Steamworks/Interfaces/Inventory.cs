@@ -384,7 +384,7 @@ namespace Facepunch.Steamworks
 
             return new Result( this, resultHandle, true );
         }
-
+         
         /// <summary>
         /// This is used to consume a specific item from the user inventory.
         /// </summary>
